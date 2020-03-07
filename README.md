@@ -10,4 +10,6 @@ Gouveia, Fabio C. (2020): Arquivo CSV para scriptLattes com a proposta de Novo Q
 
 Para usá-lo é necessário baixar o arquivo qualis.py e qualis.pyc que se encontram compactados e prontos para download em [https://github.com/fcgouveia/scriptLattes-addons/raw/master/qualis.zip]. 
 
+Para que os relatórios fiquem compatíveis com o novo Qualis é necessário também baixar e substituir os arquivos geradorDePaginasWeb.py e geradorDePaginasWeb.pyc. Estes estão na pasta principal do scriptLattes. Para fazer o download desses arquivos acesse o link: [https://github.com/fcgouveia/scriptLattes-addons/raw/master/geradorDePaginasWeb.zip]
+
 Use-os, depois de descompactar, para substituir os existentes no subdiretório qualis do scriptLattes.
